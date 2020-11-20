@@ -46,3 +46,8 @@
 .mar-b{
   margin-bottom: 15px;
 }
+@media (max-width: 420px) {
+  .width_as23e{    
+    margin: 15px 0px 15px 0px;
+  }
+}
