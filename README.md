@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features implemented
-2 standard components for listing and detail with state.\
-DS for listing.\
-UI library.\
-TDD.\
+2 standard components for listing and detail with state\
+DS for listing\
+UI library\
+TDD
 ## Available Scripts
 
 In the project directory, you can run:
