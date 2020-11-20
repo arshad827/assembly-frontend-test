@@ -68,8 +68,7 @@ export default class Lising extends React.Component<
               <Card className="mar-b">
                 <Card.Img variant="top" src={img.thumbnail} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
-                  <Card.Text>{img.title}</Card.Text>
+                  <Card.Title>{img.title}</Card.Title>                  
                   <Button
                     variant="primary"
                     onClick={() => this.openModal(index)}
